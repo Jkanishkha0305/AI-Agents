@@ -67,10 +67,13 @@ python gradio_app.py
 
 Follow the local host link 
 
-![](images/launch_app.png)
+![](images/launch.png)
 
 
 #### Gradio App
 
 ![](images/gradio.png)
-
+![](images/google.png)
+![](images/microsoft.png)
+![](images/abnb.png)
+![](images/nvidia.png)
